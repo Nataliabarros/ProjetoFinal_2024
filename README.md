@@ -1,24 +1,27 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Projeto Estoque de Reparos de caixa de direção automotiva para Mecânica Cysne
 
-Breve descrição do que o seu projeto faz.
+O projeto é um sistema de controle de estoque para uma Oficina e Auto peças especializa em sistemas hidráulicos.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+422763-Natália Barros de Lima-Design Digital
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+Usuário que irá interagir com a aplicação: Administrador
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Liste as principais entidades do sistema. Tabela para Estoque
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+A aplicação deve conter o LOGIN para o Administrador
+Um tela para  CRUD para CADASTRAR/EDITAR/REMOVER/VENDER o  produto
+Uma tela para ESTOQUE onde ficará registrado todos os produtos que foram cadastrados
+Uma tela de PESQUISAR que será a tela mais usada, nela será possível pesquisar por diversos campos de buscar, como REFERÊNCIA/ FORNECEDOR/CODIGO...ETC
 
 
 ----
